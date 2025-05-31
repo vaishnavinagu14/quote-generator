@@ -8,7 +8,7 @@ You can browse quotes by category (like love, sad, birthday, anniversary), switc
 ---
 
 Live Website  
-Check it out here:  
+Check it out here:  https://vaishnavinagu14.github.io/quote-generator/
 
 
 ---
